@@ -6,7 +6,7 @@ class Enemy{
         this.health=health;
         this.damage=damage;
         this.probability=probability;
-        this.isAlive=true;
+        
     }
 }let enemies=[
     new Enemy(0,"rat",2,1,50),
